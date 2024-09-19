@@ -273,7 +273,7 @@ external_components:
     components: [file]
     refresh: 0s
 
-esp_adf:
+#esp_adf:
 
 file:
   - id: timer_finished_wave_file
